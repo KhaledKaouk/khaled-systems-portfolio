@@ -10,7 +10,16 @@ A responsive, static portfolio with a terminal-inspired visual style.
 ├── assets/
 │   ├── style.css
 │   ├── main.js
-│   └── favicon.svg
+│   ├── favicon.svg
+│   ├── portfolio-social.png
+│   └── projects/
+│       ├── agentworld-dashboard.png
+│       ├── freelance-demo-data.png
+│       ├── netlab-workflow.svg
+│       ├── snted-desktop-concept.png
+│       ├── tripbooking-bookings.png
+│       ├── tripbooking-route-pricing.png
+│       └── vim-agent-provider.png
 └── projects/
     ├── sql-editor.html
     ├── server-labs.html
@@ -42,7 +51,7 @@ The portfolio repository is separate from your private project repositories. Do 
 ## Before publishing
 
 - Replace or confirm contact details and social links in `index.html`.
-- Add real screenshots or demo links only after checking that they contain no secrets or customer data.
-- Replace each project's "Evidence to add" notes with verified details.
+- Keep captions explicit about real captures, design concepts and fictional demonstration data.
+- Add demo links only after checking that they contain no secrets or customer data.
 - Do not claim performance improvements, supported technologies or production usage without evidence.
 - The current copy is intentionally conservative because detailed implementation facts have not yet been supplied.
